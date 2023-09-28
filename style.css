@@ -170,3 +170,9 @@ input[type='color']::-webkit-color-swatch {
 }
 
 /* Iteration 3: Style the coloring buttons */
+input{
+    height: 100px;
+    width: 100px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
